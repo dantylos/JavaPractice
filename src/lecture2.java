@@ -1,9 +1,10 @@
 public class lecture2 {
     public static void main(String[] args) {
-//        // Print all the array elements
-//        for (int i = 0; i < myList.length; i++) {
-//            System.out.println(myList[i] + " ");
-//        }
+/*        Print all the array elements
+        for (int i = 0; i < myList.length; i++) {
+            System.out.println(myList[i] + " ");
+        }
+ */
 
         int[] myList = {46, 73, 51, 2, 93, 91, 45, 4, 80, 29, 79, 46, 16, 74, 68, 61, 87, 10, 37, 3};
 
@@ -30,7 +31,7 @@ public class lecture2 {
         }
 
         // Sum of all numbers
-        int j = 0;
+        int j;
         int total = 0;
         int total50 = 0;
 
