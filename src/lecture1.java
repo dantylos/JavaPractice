@@ -14,9 +14,9 @@ public class lecture1 {
         System.out.println(pi++); // Adds 1 to the next output with pi
         System.out.println(pi);
 
-        String text = "Ooo";
+        String text = "Hello";
         System.out.println();
-        System.out.println(text + " yesss");
+        System.out.println(text + " World!");
 
 
         System.out.printf("%d %10d", 12, 30);
