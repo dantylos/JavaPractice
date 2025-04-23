@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="30fc6c79-0caf-4f61-806a-054e187e2c47" name="Changes" comment="University practice">
-      <change afterPath="$PROJECT_DIR$/src/lecture3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture5.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lecture1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/lecture2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -161,7 +158,7 @@
       <workItem from="1741870947682" duration="3551000" />
       <workItem from="1743454721390" duration="20000" />
       <workItem from="1745333737310" duration="1604000" />
-      <workItem from="1745335471600" duration="5443000" />
+      <workItem from="1745335471600" duration="6213000" />
     </task>
     <task id="LOCAL-00001" summary="University practice">
       <option name="closed" value="true" />

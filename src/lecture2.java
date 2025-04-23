@@ -83,6 +83,30 @@ public class lecture2 {
         System.out.println();
 
 
+        // Swap every even element
+        for(int i = 0; i < myList.length; i+=2){
+            int tmp = myList[i];
+            myList[i] = myList[i+1];
+            myList[i+1] = tmp;
+        }
+        for(var item: myList){
+            System.out.print(item + ", ");
+        }
+        System.out.println();
 
+
+        // Shift all items by one position to the left (the first one goes to the end
+        int first = myList[0];
+        for(int i = 1; i < myList.length; i++){
+            myList[i-1] = myList[i];
+        }
+        myList[myList.length - 1] = first; // Placing the first value to the last position
+        for(var item: myList){
+            System.out.print(item + " ");
+        }
+        System.out.println();
+
+
+        //
     }
 }
