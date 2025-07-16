@@ -6,8 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="30fc6c79-0caf-4f61-806a-054e187e2c47" name="Changes" comment="University practice">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lecture3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/lecture4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lecture5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture5.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,9 +46,11 @@
     "Application.lecture2.executor": "Run",
     "Application.lecture3.executor": "Run",
     "Application.lecture4.executor": "Run",
+    "Application.lectureX.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Vivobook/Downloads/PROGRAMING/java_projects/java_practice",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -59,42 +61,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.lecture3">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="java_practice" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="lecture1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lecture1" />
-      <module name="java_practice" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="lecture2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lecture2" />
-      <module name="java_practice" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="lecture3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lecture3" />
-      <module name="java_practice" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="lecture4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lecture4" />
-      <module name="java_practice" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.lecture9">
     <configuration default="true" type="Babashka" factoryName="BabashkaLocalRepl" activateToolWindowBeforeRun="false">
       <setting name="displayName" value="" />
       <setting name="bbPath" value="" />
@@ -126,13 +93,48 @@
       <setting name="urlFile" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="lecture6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lecture6" />
+      <module name="java_practice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lecture7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lecture7" />
+      <module name="java_practice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lecture8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lecture8" />
+      <module name="java_practice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lecture9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lecture9" />
+      <module name="java_practice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lectureX" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lectureX" />
+      <module name="java_practice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.lecture3" />
-        <item itemvalue="Application.lecture4" />
-        <item itemvalue="Application.lecture2" />
-        <item itemvalue="Application.lecture1" />
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.lecture9" />
+        <item itemvalue="Application.lecture8" />
+        <item itemvalue="Application.lecture7" />
+        <item itemvalue="Application.lecture6" />
+        <item itemvalue="Application.lectureX" />
       </list>
     </recent_temporary>
   </component>
@@ -160,7 +162,11 @@
       <workItem from="1741870947682" duration="3551000" />
       <workItem from="1743454721390" duration="20000" />
       <workItem from="1745333737310" duration="1604000" />
-      <workItem from="1745335471600" duration="14305000" />
+      <workItem from="1745335471600" duration="22954000" />
+      <workItem from="1745929088634" duration="214000" />
+      <workItem from="1746536979286" duration="893000" />
+      <workItem from="1747393103783" duration="273000" />
+      <workItem from="1752678282563" duration="769000" />
     </task>
     <task id="LOCAL-00001" summary="University practice">
       <option name="closed" value="true" />
